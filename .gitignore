@@ -42,8 +42,9 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-ShouldGitIgnore/
+*ShouldGitIgnore/
 Library/
+obj/
 Temp/
 
 # Unity3D generated meta files
