@@ -532,7 +532,7 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   scriptingDefineSymbols:
-    1: NOT_USE_IAP;DOWNLOAD_ASSETBUNDLES
+    1: NOT_USE_IAP
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 0
