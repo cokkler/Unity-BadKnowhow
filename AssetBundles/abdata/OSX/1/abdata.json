@@ -1,0 +1,37 @@
+{
+    "identity": "abdata",
+    "target": "OSX",
+    "version": "1",
+    "assetBundles": [
+        {
+            "bundleName": "abdata_images",
+            "assetNames": [
+                "Assets/AB/Arkanoid/Images/block_blue.png",
+                "Assets/AB/Arkanoid/Images/block_pink.png",
+                "Assets/AB/Arkanoid/Images/border_right.png",
+                "Assets/AB/Arkanoid/Images/ball.png",
+                "Assets/AB/Arkanoid/Images/block_yellow.png",
+                "Assets/AB/Arkanoid/Images/block_red.png",
+                "Assets/AB/Arkanoid/Images/hexagon_pattern.png",
+                "Assets/AB/Arkanoid/Images/border_left.png",
+                "Assets/AB/Arkanoid/Images/racket.png",
+                "Assets/AB/Arkanoid/Images/border_top.png",
+                "Assets/AB/Arkanoid/Images/block_green.png"
+            ],
+            "dependsBundleNames": [],
+            "crc": 592344159,
+            "hash": "fb2989d54ed75f802bd3edbd121c4294",
+            "size": 6008
+        },
+        {
+            "bundleName": "abdata_materials",
+            "assetNames": [
+                "Assets/AB/Arkanoid/Materials/BallMaterial.physicsMaterial2D"
+            ],
+            "dependsBundleNames": [],
+            "crc": 622839205,
+            "hash": "6aebf3145f90f5958ab388053c303ee0",
+            "size": 1189
+        }
+    ]
+}
