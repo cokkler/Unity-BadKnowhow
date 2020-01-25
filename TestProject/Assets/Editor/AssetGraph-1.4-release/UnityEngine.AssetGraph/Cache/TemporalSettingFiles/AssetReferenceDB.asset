@@ -4341,4 +4341,24 @@ MonoBehaviour:
     m_importFrom: Assets/Scripts/Autoya/AutoyaScene.asmdef
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_importFrom: Assets/Editor/graphs/abdata.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e9a6f95067824ab293035672a416b88
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 29f1597c665764d9e90b435196896d41
+    m_importFrom: Assets/Editor/graphs/main_assets.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85b75edcbfada43b4abadb6832ac3540
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4d29bcf24c55485d9da2cd32aebfe28
+    m_importFrom: Assets/Editor/graphs/sub_assets.asset
+    m_exportTo: 
+    m_variantName: 
   m_version: 2
