@@ -1,5 +1,9 @@
 # Unityバッドノウハウ共有会
 
+# 準備
+Unity 2018.4以降をインストール  
+TestProjectをDownload or Cloneし、Unityで開いてください。
+
 # 全般 Tips
 ## メジャーバージョン毎の最終マイナーバージョンがLTSになる
 https://helpdesk.unity3d.co.jp/hc/ja/articles/360037095992-%E3%81%A9%E3%81%AE%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%81%AEUnity%E3%82%92%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89%E3%81%99%E3%82%8C%E3%81%B0%E8%89%AF%E3%81%84%E3%81%A7%E3%81%99%E3%81%8B-
