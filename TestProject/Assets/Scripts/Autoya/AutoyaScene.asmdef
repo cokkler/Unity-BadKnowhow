@@ -1,0 +1,17 @@
+{
+    "name": "AutoyaScene",
+    "references": [
+        "UniRx",
+        "Autoya"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

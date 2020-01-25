@@ -1,0 +1,4344 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: 11cd75004d5b84ef08d52cd8912277d3
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/BatchBuildConfig.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d6cf7100d6f3475b8905f2f6383bbca
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V2/NodeDataImporter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 983d491088dbb4db8b83c926939a08c5
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Packages/PackageBaseTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5be8cd10c5c5547e68b77a46bd343a34
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Settings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7957320f633f4c71bc0d6f744410738
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V1/ConnectionData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a98bc92072da64d49a393088e55ce2a0
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageOrigin.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64253c20cf541461ab2e8099d2025732
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Importers/ShaderImporterConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9042c13098b924be5b5d051c5a67d5d7
+    m_importFrom: Assets/Autoya/Encrypt/AES256.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e426a33061f184a9785cd5d82f9fb486
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Mock/MockAddOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f61fc7301b5344a87afb15ddd11472b4
+    m_importFrom: Assets/Autoya/Backyard/MaintenanceHandler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06f8e3404d534cab82fe852ff33dad77
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/Common/LoadingSpinner.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b5e16400f7804be58bd0f1ebea83a9f
+    m_importFrom: Assets/AutoyaTests/Tests/Connection/UdpTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca819640f53b48919bf7774744f7f15e
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SelectionCaret.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20a8645037c9047e28b1e7fb4686387a
+    m_importFrom: Assets/Editor/Autoya.AssetGraphIntegration/AutoyaAssetBundleListGenerateProcess.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d9db06067b4d4af5a0622f149725e5a
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/AssetGenerators/AssetGenerateInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 04cb0660197e64f278791d91a18431a0
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/SerializableGroups.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65072170869d44a69a6dcc814a0cb197
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Importers/TextureImporterConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b743370ac3e4ec2a1668f5455a8ef8a
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Dropdown.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 346bda70af48240ecbace0e785adc937
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ConnectionGUIUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e9e9880c451546738ed613faeda6c89
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Modifiers/AddGameObject.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7aad9e80c95b4991a1f4d017c8caf386
+    m_importFrom: Packages/com.unity.analytics/DataPrivacy/AssemblyInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 391178b0da267493d9ee22c8f353b40b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/AssetBundleBuildReport.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a6ef6ac015119486aaa93edb7e0fad26
+    m_importFrom: Assets/AutoyaSample/9_Notification/URLSchemeSample.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9b376e058dcb4ba1a06fc3718529127
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Filters/FilterUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dafa50f058c614ce9804e30388d6aa17
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/Test/PathTest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f91f33f0872f34401b74ee25d32c0801
+    m_importFrom: Assets/AutoyaTests/Tests/AssetBundles/AssetBundleListDownloaderTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9f324f08cd904ec986357c98dd9eaa6
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f2ba48f0005dc45778cbd15a7e1b92f6
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/AssetPostprocessorContext.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 428891012db5a46838a818ae340a11a3
+    m_importFrom: Assets/Autoya/Persistence/InAppKVS/InAppKVS.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4fc12201ddc4b4d45b9bdecdf7f00ea5
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Mock/MockOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbd316015e78e48669c328021e8cb3de
+    m_importFrom: Assets/Autoya/Persistence/InAppDB/InAppDB.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5c074801ff7744bca91b39aa8cb30250
+    m_importFrom: Assets/Autoya/AssetBundle/AssetBundleLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 34e150112c1c42ac83170b52d898e322
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ScrollbarEventHandler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 40f980217d9196e4baa9ebd2ac1328af
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageAddFromUrlField.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9b2fb219b0a847f6a705de8223b87df
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/FileUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dd2fe74169b54bf58fca17288513ef38
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMesh_Editor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 882f1a4147a284f028899b9c018e63eb
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/CollabToolbarButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be312e4110688470990b1596df3dfa61
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Error.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54e5fc61925bc4ca3b2c1e82dfb35eb5
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Interfaces/IRemoveOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf15b771fbe4545b89df366d670fe3cc
+    m_importFrom: Assets/Plugins/UnityPurchasing/generated/AppleTangle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1048a87135154606808bf2030da32d18
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SpriteAssetMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76fc1281e9e0349bfa3740ff8ffce865
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Modifiers/SetReference.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5143f58107604835ab1a5efa2d8818fd
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Text.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ef5a2781610c4f12a79939f717f789cf
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Upm/UpmSearchOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e80978168993489ea03c2ffbccaf928
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/LoaderBySearch.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30bed781e402439ab8ce4e3357708115
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Style.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f65c1e91418f346c68a7fc29d1fc05ef
+    m_importFrom: Assets/AutoyaSample/7_Information/InformationEventReceiver.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a50575a181d034e50b6cbad0c798a66e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/PrefabBuilders/PrefabBuildInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f3e22b18940a4e828a5170574a3617e
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageDetails.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 658c1fb149e7498aa072b0c0f3bf13f0
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_CoroutineTween.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 650ea1d167b834d0f86d94e1e8c3b80f
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageManagerWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b274f3d1ea05d4bd8a13f4556f7797d2
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/Common/Alert.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: effb76e1937b45ff8adf45e51a4c08cf
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_MeshUtilities.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a68de7e1271fb487c85fbb75941f9b17
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ConnectionGUIEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d98578e11c3b84590a32d4b988609228
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/PrefabBuilders/ReplaceGameObjectByName.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad9b7be1ce5884bc292a5ba51184b915
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/BundleConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca53a6f1e29564d528bb56b92e0f181c
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/AssemblyInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 968a09f153574430a6e15ae975145768
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Sprite.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63e8a6023745e4347bb661e87a9be1d9
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageAssetPostprocessor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64cbe702f871f4305b1a1a939456d0ee
+    m_importFrom: Assets/AutoyaSample/1_Connections/HttpConnections.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0217a80286f79419daa202f69409f19b
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/BuildStatusButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2da0c512f12947e489f739169773d7ca
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_InputField.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1114812d620342e1a4ad3eaae7e220c
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/AchievementUnlockedTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7c91a123806d41a0873fcdcb629b1c4
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Presenters/CollabHistoryPresenter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78b9ad527fe44d7cb05bbb77fbf351c0
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/KerningPairDrawer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9ec5dc72125424af38a9bfaca532acc8
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/OperationFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 75938f72739584ed9925bf4ae8989079
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/MockOperationFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f5949382da0db40d7a19568718c0085f
+    m_importFrom: Assets/Autoya/Settings/MaintenanceSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 821f5482c5a3f4389885f4432433f56f
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/ICollabHistoryItemFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dafe4c82ebed44b81bb48ef142b5386a
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V2/Settings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77476292f9fa4905a787e6417853846b
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_ExtensionMethods.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 459ae692c95b74186b8051b93db33cd7
+    m_importFrom: Assets/AutoyaSample/5_MaintenanceDetection/MaintenanceDetection.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a1161a2ab6569948a0aa7899197218c
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Interfaces/IOperationFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f34f5fa2437664b2a81b4a7f34df87ad
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageStatusBar.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85dba6b2d7204a7f9a1f976eb0a6b4d2
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Interfaces/ISearchOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f2e3edb2e315041c8981dea915573b24
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/AssetLog/AssetProcessEventLogWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fab6efc27462e4c7998d23540c726709
+    m_importFrom: Assets/Autoya/Backyard/AutoyaConstructor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: da4f50d25854f40a284136aeb3f72c39
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/AssetGenerator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35b63dd2d8c5149979e69dd21178b6c8
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V1/Settings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 036d03e26977243fa9a2d7af48e51e08
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/LevelFailTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b09be1f217d34247af54863a2f5587e1
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SpriteAssetEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 23a562f2cac6401f9f91251c68a1a794
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_StyleAssetMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7a61cdf230c0a4ddba68a0a707d58525
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/ExtractSharedAssets.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25d40803100284113b1948da90494556
+    m_importFrom: Assets/Autoya/Settings/PurchaseSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9699bb034e3d543dea089ed1168ce619
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/SerializableMultiTargetInt.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f03b3e03b69e74ef9bd0f20377217a73
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/CutsceneSkipTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eca06513904414b078a830503af689fe
+    m_importFrom: Assets/Plugins/UnityChannel/XiaomiSupport/Editor/XiaomiPackageNameExtension.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8314e513ee462429d97a54a9901489ac
+    m_importFrom: Assets/Autoya/Backyard/AutoyaEntryPoint.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: adee0c1377ef8b2489060e152dd0d119
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/Unity.Analytics.StandardEvents.EditorTests.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 768d77435df35443bad74aedc993c0cf
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/ScreenVisitTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4bf237538b9e2428994abdc33ec4a98b
+    m_importFrom: Assets/AutoyaSample/2_AssetBundle/PreloadAssetBundle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4828dd530e30e4fa6ad842215386a139
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/SaveScope.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a42b7637efb64b369dda7965632849e
+    m_importFrom: Assets/Autoya/Backyard/OverridePoints.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9edc9283e7d6409fab242fe8fb6a822c
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_FontPlugin.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77bc3783d582147ff8ebdac11a7e8ec4
+    m_importFrom: Assets/AutoyaTests/Tests/Persistence/FilePersistImplementationTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9de24983a2c6cbe4f925c3e98a79b804
+    m_importFrom: Packages/com.unity.textmeshpro/Tests/Runtime/TMP_RuntimeTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 058cba836c1846c3aa1c5fd2e28aea77
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SubMeshUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf6aca931950a4a6a886e214e9e649c4
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/HistoryProgressSpinner.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d8730a30170c42c1924ef148010adb5
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/ComponentMenuUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 760934a36e5f490db3c9fcaf497625a4
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageGroup.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4d338a31cc0c43d9b42979b09c5f058
+    m_importFrom: Assets/Autoya/Backyard/AuthenticationImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9aa44aa3a8eeb40ae9028cf7ac5e20b4
+    m_importFrom: Assets/Autoya/Settings/AuthSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf60f0b3cfab3495b80f91f24c56abfd
+    m_importFrom: Assets/AutoyaSample/3_Purchase/LocalPurchase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 459682b384b2b49bf9ab32341ad85637
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Modifiers/AttachComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e6925bb38494e6a43ba0921e65e424fe
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Upm/UpmOperationFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ddde32d31de404cd8a791dc0b930a258
+    m_importFrom: Assets/Autoya/Backyard/InformationImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e4c82d3e76e64c5f9c64cf0c38aaf42
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Modifiers/SetProperty.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb22a8d3124e847209ffa0d4a45d3b75
+    m_importFrom: Assets/AutoyaTests/Tests/Representation/JWTTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 240551e3142f04b0ca801ce8eb645ba2
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/PushNotificationClickTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00ed25e3298ac440eb327c706a964e3a
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/ItemSpentTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7cc57ee31ef3a44389458141063b7b71
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/PlayerBuilder.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe130004387bb42d5a2bec9ea693d59e
+    m_importFrom: Assets/Autoya/AssetBundle/AssetBundleList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7782a04b27074cf8ae484ec83a3a5b0
+    m_importFrom: Assets/Autoya/Connections/IP.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11599b042eeda438193915d6d4b2e25e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V1/SaveData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5447b14b23b5497293979026e4d6ca3
+    m_importFrom: Assets/Autoya/Backyard/PurchaseImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4aefe14dab21443684705695ffe0f61
+    m_importFrom: Assets/MiyamasuTestRunner/Editor/MiyamasuTestIgniter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96e9072453a441618754c478755b3028
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_EventManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11a6a034ab84493cbed6af5ae7aae78b
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/MaterialReferenceManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b4a8234f532f4b34aba0ab70400d90d
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/IAPTransactionTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9d22c34b09544790a895928c8472805
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/UserPreference.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6918bc342c9534bc592f2d8241529881
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Miyamasu2UnityTestConverter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dc3edc4496b6745b1a650261e54f33dd
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/AssetGraphUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b44a0354652784cde8510cb34f8785ad
+    m_importFrom: Assets/Autoya/Information/Editor/FileController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e73406419bf54a50a1b5faf24749c6c
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/PrefabHolder.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1725dd748a705450ea972f3fe0826119
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/GroupingByFile.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4fed284c8ea141b687a4309bc55fd8b
+    m_importFrom: Assets/Plugins/UnityPurchasing/generated/GooglePlayTangle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c786248494be6489bbfa006bdf59c773
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/StoreItemClickTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e22056847ad1c4bc39e69087388296b0
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/Test/ImporterTest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03ffb9844f8d40e8a2f59dd2aff561eb
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageFilter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 526cdb84319594850bae31788e91464d
+    m_importFrom: Assets/Autoya/Persistence/URLCaching/URLCaching.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2139b79456df44960b011ab42a6a4638
+    m_importFrom: Assets/Autoya/AutoyaDependencies.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bff25ea4cf0d3d841b6787b9f649f21b
+    m_importFrom: Packages/com.unity.analytics/DataPrivacy/DataPrivacy.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c68ba5b432ef64e67ae0bf74960908a8
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageItem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a55fb7b4961a425381d1282fc424f966
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_UpdateRegistery.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82f81cb4192dc4e1d9714dd03ea84ad1
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/JSONGraphUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 61d72cb49da3040d5ade3edfd6eccfc1
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageCollection.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 138961c4434d141a987d96df1f8d7342
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/SocialShareAcceptTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 293182c4d29604c05b6724ae00fd121a
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/PostAdActionTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b4b92c4019054aee96cde27365b8394
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GroupView/GroupAssetListTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de9a56d4f36bd4db1be0ba96408e07ac
+    m_importFrom: Assets/Autoya/Representation/JWT.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 66d3b8d4863a54482ba6f9d908da0883
+    m_importFrom: Assets/AutoyaSample/10_AppManifest/AppManifest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3344e7e4d268b4ba5a20841532437498
+    m_importFrom: Assets/AutoyaSample/3_Purchase/RemotePurchase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9d7cfce4400474688aa803f13d8eb448
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/EditorRuntimeSupport/AssetBundleBuildMap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 617202f4e2bed4ef8acccfd6c1ecd6fa
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/LevelQuitTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 90f369f416671475d86e05b86c9d8139
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/PrefabBuilder.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee4bc21567f434b598a3c96ba4946372
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/AssetReferenceDatabase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84a92b25f83d49b9bc132d206b370281
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteAsset.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78759e25237a7430587982cd92a2a0d8
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/FirstInteractionTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d65a43500ec84d9186cb6d9ab681277
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageSearchFilter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1b3dc357d1344cc5801bb6d5cb46625
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/AssetReferenceStreamManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e21bec35f48a44298911b25ead550ce3
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_MeshInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 220bd545cb0f64493b48cad989fd4fae
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Exception/NodeException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 736b0a4506b3e4d9cafbaf59961d22a9
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V1/NodeData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 900f1a451c764dc3bdcc0de815a15935
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/GlyphInfoDrawer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1970fb55c77154021a4cd5e4a72d89eb
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Label.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7593765c5f3448889247c3e3f0e8ff5
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Loader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cfd375853ab09456aaf09e607610061a
+    m_importFrom: Assets/Plugins/UnityChannel/XiaomiSupport/AppStoreSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2396a89559dfd474e9f16d864bc7481a
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/PrefabBuilders/PrefabBuilderUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 876d47a520ae34f81a97792e1afed14b
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/LevelStartTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 751fe9a5afba84189a2032fafb55d62b
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/AssetUpdateTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a56f2c5d8e9e483692db7e36b9419d6
+    m_importFrom: Assets/Autoya/ResourcesControl/ResouresController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 897304c51e5574301a0d5964822466dc
+    m_importFrom: Assets/Autoya/AssetBundle/AssetBundleListDownloader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fea24dc53b50441a9b2a8f9473fede33
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Mock/MockListOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2d77b2d58287d46a6a61f12c861bfc2f
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2beb27d59eec84f3eaa90e2394236032
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GroupView/GroupListTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dab20ed5a5e3e40d8a69e2f6cee60fe2
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/CustomScriptUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9a4cee567dcf46fc919420c7d668c2e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/AssetLog/AssetProcessEventListTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb6c03f5afc23481cb01e7c813d06e48
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphBackground.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c7eb706cff9343ddb45ab11a673231f
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ProjectSettings/ProjectSettingsWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3dcbbc060dea46168ffc09a580836240
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Interfaces/IAddOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9405b416c158444b19157040fd664533
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/AdCompleteTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9374526debed24449d75f8cc6d0103f
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageJsonHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 756b0626c83fc40bdaca5f4c433b1939
+    m_importFrom: Assets/Autoya/Connections/HTTP.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1bc2d26162184521b3d75065fcd5667
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/BatchBuild/GraphCollectionDetailTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4c7193663918411c8f78e3cf844cb9e
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/StoreOpenedTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 09bd7246e12c44caeb1c3e4dc76fbd68
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/NodeBuildContext.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44e1d646473a40178712cb2150f54cec
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_ContextMenus.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a41d2c466f24e42bc8aea8a0a0a45eb4
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Exception/AssetReferenceException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 438efd46088d408d8a53f707fa68d976
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_BaseShaderGUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8501985653af948cf8538077833adfbe
+    m_importFrom: Assets/Autoya/Encrypt/RIPEMD160.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7894a5761247a462097d180e2cf09a54
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/GroupingBySize.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6546d7765b4165b40850b3667f981c26
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/Unity.TextMeshPro.Editor.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65c22f76b77044875a46f653f516c019
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/NodeGUIUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3bda1886f58f4e0ab1139400b160c3ee
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Asset.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b0f0c8689876421c90e7b60f096325a
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/UserSignupTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c72e9896ca732448296aaec689e29fcf
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Modifiers/IModifier.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47ece996f50e448d08eba70af3411699
+    m_importFrom: Assets/AutoyaSample/2_AssetBundle/LoadAssetBundle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9b74ea960fdf3432c9764eeb4f29c397
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/RecordUndoScope.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ecebe0a6795bf4a00a89a1b2db87734d
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/AssetGenerators/CreateMaterialFromTexture.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc6351a653ea64ecb891e0f6eaa908fb
+    m_importFrom: Assets/Autoya/AssetBundle/AssetBundlePreloader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e7a49a6952af4d4ab2c3b038be68141
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/ItemAcquiredTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fed9dda667cab45d398d06402bba03f4
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/CollabHistoryWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1d667b6f747a4c25860e0c4a4e4d424
+    m_importFrom: Assets/MiyamasuTestRunner/Editor/FileController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a33ebcb65ebf847f4bf68ddd49a6b5a5
+    m_importFrom: Assets/Editor/AutoyaEditorTool.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6838d1c6be001444ab0dfe90e45b087e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/BatchBuild/BatchBuildWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f876bd6f2c4343308d812b7ff184217
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/BundleBuilder.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a2445fd6934ad4e88a4dbd7c02db6940
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Imported.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c09652e660b34484cb10d35ed2206df5
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/AdSkipTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e69259f6ff914146ad610be5491eb44a
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ObjectPool.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68e68a07b552648919feb0b0c63576a0
+    m_importFrom: Assets/Autoya/Representation/Base64.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fea49a0730244a98bf1087f7ca9410a8
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_ShaderUtilities.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d9a5f17c54584a67b7fe58665965f15
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/AssetProcessEventRecord.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fe4c527c3aa3eb42912a1caafbbc6a0
+    m_importFrom: Packages/com.unity.analytics/Tests/Runtime/DataPrivacy/JsonSerialization.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b6d1682724bab428496b2bd2d8c7b194
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageManagerToolbar.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e288a827b8a3f4dd9aa5e69dcbbfde55
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/MaintenanceTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be72e827636b84babac7fe6b7fc282f6
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Filters/FilterTypeUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5da08927eb8a84276b34742adde1b11f
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ProjectSettings/AssetBundleSettingsTab.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aa160f27c3fe4052a5850e21108811b6
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_InputFieldEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 28375447bcea455c9b51a6650b10c9d7
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ListPool.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20a9b557a46149dfbfa04a3a7080f5aa
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_XmlTagStack.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2300e75732d74890b38a8ff257a3ae15
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_EditorUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9647b571c5e44729b71d756b3d55317
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_ColorGradientAssetMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d912d4873af534bd4a9d44bf1b52f14e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/CollabHistoryDropDownItem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 063b1587caa4a47f396741f4e69d108c
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/UI/PackageManagerWindowTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5afb9687033af4bca957216add3fe854
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Unity.PackageManagerUI.EditorTests.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f0ca6874aa74540bb3d4fe5a0f86bcc
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextUtilities.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e751e877ed14d71a6b8e63ac54949cf
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_ProjectTextSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ab6e6972ecb54e2cbd505692415a7ba
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/TutorialSkipTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6366ee97f6b541449155028b9487355a
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteAnimator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb05cab7d802aa5468f8f2f86840d984
+    m_importFrom: Packages/com.unity.textmeshpro/Tests/Runtime/Unity.TextMeshPro.Tests.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f84444c7feae044458947cbaf437e55e
+    m_importFrom: Assets/AutoyaSample/11_Resources/LoadResourcesSample.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c55a64c7570474f47a94abe39ebfef04
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TextAlignmentDrawer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15a615c733aa240909fe0b28b0d5143c
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Unity.PackageManagerUI.Editor.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5c75fed7a116640d1b5c78c11883ff89
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/AssertUnwantedAssetsInBundle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 413464e71470e48cea3073a1ea418f7e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/AssetGraphEditorWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a58617e7f893049179cb9ed32310dbfc
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/LogUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 32d588e7388ff4c5bb81d2941501e112
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/PurchaseImplementsTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4c13fae742fa24ea9beb76b5cdc2bf5b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GroupView/GroupViewController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 656e461844099ae43a609ff6109b0877
+    m_importFrom: Packages/com.unity.textmeshpro/Tests/Editor/Unity.TextMeshPro.Editor.Tests.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d64a5028c6646494d935254e9ba0d881
+    m_importFrom: Assets/Autoya/Notification/Notifications.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e95c6380691441ec902f183f790521e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/SerializedComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6dbcf248c987476181a37f01a1814975
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_DropdownEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b589b1582520543cbbcc4b79c591d8dd
+    m_importFrom: Assets/AutoyaTests/Tests/TestMBRunner.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7c10e584b708734ba6141e7d4797931
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageError.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f17a0688211d476f8d8c9742bb9f992
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/External/SemVersionExtension.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae32c06838424447c9cfb208bc0b7aba
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/PrefabBuilders/IPrefabBuilder.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d976417860baa4c55b6f57d10733ef8e
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/AppUpdateTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 448aaa781aea44811a5d66e3edac37e4
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Packages/PackageSearchTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 91950f78729ab144aa36e94690b28fad
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_BaseEditorPanel.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 32d40088a6124c578ad6b428df586e2e
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TextContainer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c832c0885edac4071887b78bfbb3b992
+    m_importFrom: Assets/Autoya/Connections/Udp.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 592f7288ed0df2c4b884e2cd9baac023
+    m_importFrom: Packages/com.unity.textmeshpro/Tests/Editor/TMP_EditorTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbf1bb8889d9649978dd5d2efe02cd48
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Importers/TrueTypeFontImporterConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5edd19845e0e426eb775477a7988a4a
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Common/PackageSets.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f8d4698d81ba4878b54b15cff6f852a
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ProjectSettings/ExecutionOrderSettingsTab.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 04e668989dcf2499eb5662cb399f5f44
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Modifier.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4935fb862d54980b1bcbca942962642
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_TexturePostProcessor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 645165c8169474bfbbeb8fb0bcfd26f5
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Unity.CollabProxy.Editor.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d3deeec8c250248af8440ee856bc3f31
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/MiyamasuTestRuntimeRunner.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 383966e89d344865a36addd5d378ffd3
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_FontAssetCreatorWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fac644f8d48b2425db6640dba11e339f
+    m_importFrom: Assets/Autoya/Settings/AutoyaBuildManifestObject.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b025f6f8a47be46418bcb0ed1050cfb4
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/TutorialCompleteTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c03100996df84ff1a8e32ffca7213a4
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/BatchBuild/GraphCollectionExecuteTab.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ff65a093e87f482b91a6ccf343a1f76
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V2/ConnectionData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4384419b2b8d455bb90f9928009fd79
+    m_importFrom: Assets/Autoya/Backyard/AutoyaMainthreadDispatcher.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 23a56a19774ed42b6b65646af08a003c
+    m_importFrom: Packages/com.unity.collab-proxy/Tests/Editor/HistoryTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 327cf429aa28d4cd29d4b1ac70fc99e0
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/BatchBuild/ExecuteResultTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a52f1f39a3ba3487aa172433cb08e5f7
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/AuthenticatedHTTPImplementationTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 26c29749552164416800e8912eeec334
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/MainThreadRunner.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 90c319597e27f4efc898a09d71c4aafb
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/BatchBuild/GraphCollectionManageTab.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bfae756957ad44ed0909ff46f31add62
+    m_importFrom: Assets/Autoya/Settings/AutoyaRuntimeManifestObject.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 672797698ae4a441abfef0263c6d3e6c
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/AssetGraphController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9394df690660f4f489faae09996d7a67
+    m_importFrom: Assets/Plugins/UnityPurchasing/generated/UnityChannelTangle.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 322392995be44d23a3c86cfd972f838f
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_DefaultControls.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d437b997e074079b4b2f6e395394f4b
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_MeshRendererEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d0b03a948ad545f691a9d4213bfe810
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/AssetLog/AssetProcessEventLogViewController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad6a04a95a0e44de5840a9487311e96b
+    m_importFrom: Assets/Plugins/UnityChannel/XiaomiSupport/Editor/AppStoreSettingsEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 806de5a9211448c8b65c8435ebb48dd4
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_BitmapShaderGUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f006d9a9c7507460d9ab6f36cbdb7794
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/AssetGraphPostprocessor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c45cfaa91181a4ecbbf68de659c6e391
+    m_importFrom: Assets/AutoyaSample/1_Connections/UdpConnections.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2f1849b9179b464381598f68663790d3
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Interfaces/IBaseOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 34e2c9b9d9e44953933afe37461f44e6
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_StyleSheetEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e2d4c4c9753a345f98f96959e73f541c
+    m_importFrom: Assets/AutoyaSample/4_Persistence/URLCachingUsage.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2339ac96615942369f3281fb57c280a
+    m_importFrom: Assets/AutoyaTests/Tests/Manifest/ManifestTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efe62dc9ec1fc45f191659f0fdbc1a97
+    m_importFrom: Assets/AutoyaSample/8_MainthreadDispatcher/MainthreadDispatchSample.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5cdb6d930da14ef09e9a5ef6d168c49
+    m_importFrom: Assets/Autoya/Backyard/IUpdater.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5789ddd9d72db4c1a9546ae1c263ecf4
+    m_importFrom: Assets/AutoyaTests/Tests/Encryption/EncryptTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 015812e983113a84b95773e55f3cec13
+    m_importFrom: Packages/com.unity.analytics/Tests/Runtime/DataPrivacy/Unity.Analytics.DataPrivacy.Tests.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b59656e937e034d1fa0af1f755d7ddf1
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/PrefabBuilders/ReplaceWithIncomingGameObject.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 852b2ae9db920489d94c2e9a085d84cb
+    m_importFrom: Assets/Autoya/Backyard/AppManifestImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d07be2f9bb82d4038b34ab503a159295
+    m_importFrom: Assets/AutoyaTests/Tests/Persistence/URLCachingImplementationTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbc295f9fd7874aef834ba4d3abd555b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/NodeGUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f695b5f9415c40b39ae877eaff41c96e
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_FontUtilities.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0edd86f97b0648f685604a5582cff608
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/Common/UIUtils.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf1fe50a641faac4691bf49eb32ce333
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/PackageResourceImporterWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20a8ca0a6d82545f6bfd6f2d898d61f7
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageManagerExtensions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0668a01a6fc274116958b6c9a8326652
+    m_importFrom: Assets/Plugins/UnityChannel/XiaomiSupport/Editor/AppStoreOnboardApi.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc9d051a7aa1d4dbbbe99c67526af874
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/AssetGenerators/IAssetGenerator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93f7ca1a9c5c945a89e884f9611c70f0
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/LevelSkipTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 186be03abcfd84b539b9b8cc418ae65d
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Modifiers/SetSpritesToAnimation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0ef623add767445284d290e629624fe
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/Node.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71c1514a6bd24e1e882cebbe1904ce04
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_FontAsset.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21c0044a7f964773be90d197a78e4703
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_UiEditorPanel.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9ec805aabf2743abbcf32fd60cafec3
+    m_importFrom: Assets/Editor/Autoya.AssetGraphIntegration/Flatten.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2705215ac5b84b70bacc50632be6e391
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Settings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5075cb5aa3254b099b11b2840d7cd46e
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/External/SemVersion.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c785fc6a27a6a413f9f996d01bdec948
+    m_importFrom: Assets/AutoyaSample/0_BasicUsage/BasicUsage.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20b1b37a2183e4f4eb443dc216e58e1e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/AssetProcessEvent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d21ca7a30faf461381a8cc734ab6a8a
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V1/ConnectionPointData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3c737f7a9d78541d1ab25f28f045dd32
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/CollabHistoryRevisionLine.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b929608ac59544de3a587ffc4080d2fd
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V2/ConnectionPointData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2622838afa3284cc882c48ceea4c8220
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/TutorialStartTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f8b248abe6b4dcebd6cdd0d754717f4
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_Private.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e92b488a6e4e44b0ba8022885f55f087
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V2/NodeData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd382b8abbd6145c29e32af0e2a26d88
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Mock/MockRemoveOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b5366b8adc0f44b3c9cb261a3f752d7a
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/AnalyticsEventTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b199839a9e8f347ada0d93a4bb32bea5
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/AssetGenerators/Duplicator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5314579a55b0540de9799b0fe62497f3
+    m_importFrom: Assets/Autoya/Editor/FileController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 70e2789ac93794f32bc16d2c24e32736
+    m_importFrom: Assets/Autoya/Backyard/BackyardSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 064932aa325ac493095654e306f59d63
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/AuthenticationImplementationTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a10564aae782c458cbf1de024f4870f7
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/PushNotificationEnableTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4ef26aa386b44923b61c9c4b505a67c
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/AssemblyInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ad407aa276a54c39a50bed8996f0a4a
+    m_importFrom: Assets/Autoya/Settings/ConnectionSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78e267bad6d564d49803ba3e9c13ff2e
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Packages/PackageTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d028fbbad11524d13a069f495ddcf01c
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/UI/PackageDetailsTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a822dba3d5c4c85b150866e5442a5ec
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageState.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b45ce3caafd734a08b4ecc1f882ee67c
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/BatchBuild/GraphCollectionTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a30e59ca9f68d46db88323ac18f49e31
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/GameOverTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ddfceca50d66489dbc1b6285a804190
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Importers/VideoClipImporterConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 016491daae8c94df9b41bfb983d0c0d7
+    m_importFrom: Assets/Autoya/Encrypt/SHA_2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dae0a9da54c004bf2a3032d5ca273571
+    m_importFrom: Assets/Autoya/Settings/AppSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76078ddafb924ce19edc6034201cb15b
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Common/UITests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a58aa8ea0dc1b47c3a51105ef2252237
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Importers/AudioImporterConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f091dea68a1452cb6c04a6dfa73d5f5
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Upm/UpmAddOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3069a00b8c364df395994d7d379e0a99
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMPro_UGUI_Private.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54e5ef0b0377c4b96b89e3440d2ff5f0
+    m_importFrom: Assets/Autoya/Purchase/PurchaseRouter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a571de1bea3cb4c9784493c6f1b0b76c
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/TutorialStepTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e372f1bbea04aa9bd68055d4105bd84
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageGroupOrigins.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5f7b7c3b6382c41c180e2fd3a7d9d677
+    m_importFrom: Assets/MiyamasuTestRunner/Editor/SettingWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b5a4c34bce44d426087d093bcc2b6195
+    m_importFrom: Assets/Autoya/Information/Editor/Antimaterializer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7a74094b34f74992a5121c0586ccf6ea
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageListExtensions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 08e9894bdf0834710b22d3c0aa245ac0
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/StatusView.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a483595b0257945278dc75c5ff7d82ee
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/CollabHistoryDropDown.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92eea56b5faca4df497ebe801de67f1f
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/EditorRuntimeSupport/AssetGraphBasePath.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af5f907b21d7040c58f4dd93d3243d4f
+    m_importFrom: Assets/Autoya/Settings/AssetBundlesSettings.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3cc36a7b9a2cc410080d519bcdbaea0a
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/BatchBuild/BuildTargetTree.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81ce5b7b5349a41aab3a8698b2813a60
+    m_importFrom: Assets/AutoyaTests/Tests/AssetBundles/AssetBundleLoaderTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7ca9c88bbe37647da9e1c3fc62b7a9dc
+    m_importFrom: Assets/AutoyaTests/Tests/Notifications/NotificationTest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa4ff09b6aaaa4df29a884efa38bce56
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/LevelCompleteTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 50de529b6a28f4a7093045e08810a5df
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/PagedListView.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2f1d33abb004b44cb90ec83a2bfe872e
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Packages/PackageInfoTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 691db8cb70c4426a8ae718465c21345f
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_UpdateManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a2c7bcbdfe0a438999cb0653789cdf4
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Mock/MockSearchOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d6a708dbb74414a6dbd60e07d9513c1c
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Common/Resources.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4688fdb7df04437aeb418b961361dc5
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshProUGUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8ac5a4eb1d8da482694ba467cd1fc34f
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/ImportSetting.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0386b6eb838c47138cd51d1c1b879a35
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SettingsEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f28a97eb9f6b84cc2b6879387333e1c7
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Importers/ModelImporterConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9545c9eb3bf94265810463794fec8334
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/DropdownOptionListDrawer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 87ab1bebe13f41f89d5427e7d2c34d58
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextElement.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fdc9a4fb30f6f48c3b5f1f38a2ffb2b5
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/SerializableMultiTargetInstance.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7e8a8fb69eacee439474914ea54bf9b
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Interfaces/IListOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 02893ffb522b490a9fa28eedd2584309
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_TextContainerEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 523eb70c378aa40b68c2874d02d485ed
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/MirrorDirectory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f944311c8fff2479fa3ba741f6039fc8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/CollabAnalytics.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5ebb11c6fc3a2f498bd89593f7744aa
+    m_importFrom: Packages/com.unity.analytics/DataPrivacy/DataPrivacyButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7da0c11c52b4044de81c175887699282
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Common/OperationSignal.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 967a2a3c3ef0e4c84858d7699fed3036
+    m_importFrom: Assets/Autoya/Purchase/LocalPurchaseRouter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 782de34c17796430ba8d0ceddb60944e
+    m_importFrom: Packages/com.unity.collab-proxy/Tests/Editor/Unity.CollabProxy.EditorTests.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01cd264c206ae482393dc9d04b26eca0
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/Services/Packages/PackageCollectionTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a2c874c382e2419184b302497279dd9
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Upm/UpmListOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1048885c160f442439f333d41df064e8
+    m_importFrom: Assets/AutoyaTests/Tests/AssetBundles/AssetBundlePreloaderTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4d8bc36c262eb427a9e81517a38f09aa
+    m_importFrom: Assets/AutoyaTests/Tests/Purchase/PurchaseRouterTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88ed537c17c34f339121fe9a7d6d7a0e
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_SortingLayerHelper.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82a0f18c397f74c78afb86c98d2f8694
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/NodeGUIEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5a61f8cc87394b28aec6b88b4083217
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Upm/UpmRemoveOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a3f4f8c4e2df41108f55825c24ff694
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageTag.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5941c79cb78c34a0d9c677ece9784f15
+    m_importFrom: Packages/com.unity.package-manager-ui/Tests/Editor/AssemblyInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: edf97aac6cc5a437ebf600a06a2e5ac7
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/CutsceneStartTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6c6b3bac846ff402eadc1eb18359ddf3
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/AssetGenerators/TextureScaler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d9df2bc198c417db00037803568139c
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_MaterialManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 16b266cc62d244fceb9cc3255beb6405
+    m_importFrom: Assets/Editor/Autoya.AssetGraphIntegration/LinkXMLGenerator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7ed48dcc992234c659018e00590315b7
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Common/ApplicationUtil.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 408083dc9c2f74c62aabd45e865483d4
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Exporter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7241c7dc25374fc1a6ab3ef9da79c363
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_ResourcesLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30a939dce2fd4073955f2f20e659d506
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_UIStyleManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f74142ec8a4cd4fb1b0ff6cf5c3075af
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageSearchToolbar.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc8052ecf70cd41838b777a314e3d020
+    m_importFrom: Assets/Autoya/Persistence/FilePersistence/FilePersistence.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e87e16ece4884c3bb85cc0e02f133a9f
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/SpriteInfoDrawer.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b0bb2afc5cd494e6f9b44455a0fc22f8
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/LevelUpTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b186a0d29a784d81809e8a5471d155e
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/ChatMessageSentTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fcc60c1d6bb544d9b712b652f418ff3a
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_ColorGradientEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 04e83e1d064b147fc97851b317d0a292
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/CUIUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68a8222d3f84e43fc99a00702bd91e8f
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/SerializedInstance.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 02e5822d3f4d04f41b5e9ffc9c85e280
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/SystemDataUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eec4882d68a9346b3b5f8ecf1e38a534
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/V2/ConfigGraph.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 79ff392d1bde4ad78a3836a4a480392d
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_InputValidator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d873b2d973b24671abda2161871b5e0
+    m_importFrom: Assets/AutoyaSample/2_AssetBundle/PreloadAssetBundle2.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6061cd2dc44bc4639976b2ca7abe755d
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Filter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4e830e2dbc3315b4b97cd5311a54e4fe
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Upm/UpmBaseOperation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 490fe93dbc954e3ba3651b7f55eaba70
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Common/ThreadedDelay.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1ea944dcf8849ebab391e461b99ccb7
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SpriteAssetImporter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 27a0335dab59ec542aadd6636a5b4ebd
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/EditorCoroutine.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 34f6695d37a94370a3697f6b068f5d5e
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_EditorPanel.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96b44f7d98314b139324a8a87eb66067
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_FontAssetEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1727faade967f43b6a6dba36609f4bdb
+    m_importFrom: Assets/Plugins/UnityChannel/XiaomiSupport/Editor/AppStoreModel.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab2114bdc8544297b417dfefe9f1e410
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_StyleSheet.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7b89acd74e047778b42209a7a733d39
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/PackageInfoListExtensions.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a544facd9f5f34d8d8dcba2116df8a40
+    m_importFrom: Assets/Autoya/Information/Editor/Reporter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92eb5dcde0e0343c2a063849d7a86b93
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ConfigGraphEditor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 871f8edd56e84b8fb295b10cc3c78f36
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/FastAction.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ee2c1edfacf54b2881227afb2908a6c
+    m_importFrom: Assets/Autoya/Manifest/AppManifestStore.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d674a1fd1ce6441baa00d5f54dae5441
+    m_importFrom: Assets/Autoya/Editor/Libs/SuekkoEditorWindow/Editor/GUI/SuekkoWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8413ca0e506d42a1a4bd9769f204ad16
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SDFShaderGUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dffed11e808384975952c474251f07bd
+    m_importFrom: Assets/Autoya/Information/UUebViewComponent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4824831e124564254aea49f66a81cbad
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/AssetReferenceUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b01141ed8f74d198965c86f25eb7040
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_SubMeshUI_Editor.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba40d51e640ec4a819c96db5ed6f8737
+    m_importFrom: Assets/AutoyaSample/9_Notification/NotificationSample.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8aa8171e088f94069bbd1978a053f7dd
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Bootstrap.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc46f91ea1e8e4ca2ab693fef9156dbe
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/CollabHistoryItemFactory.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f516f1ec21a54a59a92bf99db2d9535
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/CollabToolbarWindow.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f499e12eaeb145bf9022f581c0b7fa5b
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/Services/Packages/Package.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62a7573e463b4f68b578fcba3a94110c
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_Compatibility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96626a3e271e94e76a848c68828fbbac
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/AdOfferTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5a621b3eb315745c8b95a9e354708dd4
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/TypeUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68eedd4e5b33b37429c02c4add0036fe
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_PackageUtilities.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4c1445ee948a4124bfa9fb818a17e36
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Collab/Views/CollabHistoryItem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9541d86e2fd84c1d9990edf0852d74ab
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TextMeshPro.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54d21f6ece3b46479f0c328f8c6007e0
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_ColorGradient.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a592d27ead6884163839d4f8da3977ef
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/AchievementStepTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a073337e5a6474ad2bc1d344d9ce8211
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ConnectionGUI.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4188ec7e6ce3549bca02d5a372758f36
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Importers/IAssetImporterConfigurator.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81b3d18ee905544b988d58249996f11f
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/AssetGenerators/DuplicateRefererenceAsset.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6055be8ebefd69e48b49212b09b47b2f
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/Unity.TextMeshPro.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e179c9e7e4094b6cacb7dec874f7144
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/NodeEvent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 55796f9e6ac6b4b938413481d8242df5
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/AssetReference.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 566f8bae715954c65a2a7a4b5818fc7a
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageManagerPrefs.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3877b2be7ee07495d8918dc8937e6de2
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/Common/VersionItem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0fda7ebe61ab2164383d10e32efb9c6e
+    m_importFrom: Packages/com.unity.analytics/DataPrivacy/Unity.Analytics.DataPrivacy.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4e0b1de1aee400d81ed4273141e7823
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SpriteAssetImportFormats.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 785a88dedbaea4eb5b50019325ee54b1
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Libs/MiniJSONForAssetGraph.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 589b3ddef1e4d44cea68e0144bd95434
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/AdStartTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b2be9ee9f41a4b2db6b502697ba31b1
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/GameStartTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9957afe4f6df4fba8f8e329a47b30cb
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/BuildTargetUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 07994bfe8b0e4adb97d706de5dea48d5
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_SubMesh.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f4afbfedc128456c8531368b170d036
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Exception/AssetGraphException.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b36421f668d647d3a0f7a8be7f5e5aa
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/SerializableMultiTargetString.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 811f7f1f5920641c0a9233503492c9ba
+    m_importFrom: Packages/com.unity.analytics/Tests/Editor/Unity.Analytics.StandardEvents/SocialShareTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4235bf1f6608b4e5dae5965f02fc21ee
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Core/PerformGraph.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0ea78d3f6b8a548548d2d523146dc645
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/PersistImplementationTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4ae64f3f72004807a9f919f9c27af0db
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_TextInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 87c69f4f3f94e4e028e4ef8a83fdb295
+    m_importFrom: Assets/Autoya/Backyard/AuthenticatedHTTPImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eb70905fec4ff495e9ab036174bef78d
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/IPostprocess.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bcb0c45f124e843669cb245a2c43f67d
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Filters/IFilter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aa76955fe5bb44f7915d91db8c7043c4
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_EditorShaderUtilities.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7065397ff8184621aa3ca4f854491259
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMPro_CreateObjectMenu.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 66083b7f6dc2e433eae33f3244b2ce88
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/Interfaces/IPackageManagerExtension.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b6e75d7f429a4e7e9e1ffb4f85cff49f
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Runtime/TMP_LineInfo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 07689e8f3a2194ffeb25946bde9b4f46
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Model/ObjectReferenceBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e69df8ff024a4dc1a9e5c22725e4863
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/Common/PopupField.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ea760f9fe422940ddabb9fba2a88b9fd
+    m_importFrom: Assets/Resources
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6fdea2af3daa40fe8f88e5e9cfc17abb
+    m_importFrom: Packages/com.unity.textmeshpro/Scripts/Editor/TMP_PostBuildProcessHandler.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b62caaaf58ac442b1b95e70bfbcd441d
+    m_importFrom: Assets/Autoya/Backyard/AssetBundlesImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b2418bff76c64f59bad72e278c0b02a
+    m_importFrom: Assets/Autoya/Backyard/NotificationCenter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46e082cff6afc4be8815e6b86e62dc45
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Node/Buitin/Grouping.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 207962df4115f4a73bc381985e110fd4
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/ConnectionEvent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6a1337df6f2e1467499697f89b4b7393
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Filters/FilterByNameAndType.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad1628dfe914e4bc2a016f4c89e8d0e5
+    m_importFrom: Assets/Autoya/Persistence/Editor/PersistenceSupport.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b46f98df2a1e34f8180d8d343cc80b0a
+    m_importFrom: Assets/AutoyaTests/Tests/Backyard/AssetBundlesImplementationTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ffd2adf615994485991e37bacbf735c
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Sources/UI/PackageFiltering.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c2b3fdfe135548bea43e0bf058fb1e4
+    m_importFrom: Assets/AutoyaTests/Tests/Connection/IPTests.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a0587ff48d994fd8b4f99d15f7a505d
+    m_importFrom: Assets/Autoya/Backyard/PersistImplementation.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ebbadce6891a432c825e2f9f89902e6
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000002000000000000000
+    m_importFrom: ProjectSettings/InputManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000003000000000000000
+    m_importFrom: ProjectSettings/TagManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000004000000000000000
+    m_importFrom: ProjectSettings/ProjectSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000006000000000000000
+    m_importFrom: ProjectSettings/AudioManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000007000000000000000
+    m_importFrom: ProjectSettings/TimeManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000008000000000000000
+    m_importFrom: ProjectSettings/DynamicsManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000009000000000000000
+    m_importFrom: ProjectSettings/QualitySettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000b000000000000000
+    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000c000000000000000
+    m_importFrom: ProjectSettings/EditorSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000004100000000000000
+    m_importFrom: ProjectSettings/NavMeshAreas.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000005100000000000000
+    m_importFrom: ProjectSettings/Physics2DSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000006100000000000000
+    m_importFrom: ProjectSettings/GraphicsSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000007100000000000000
+    m_importFrom: ProjectSettings/ClusterInputManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000a100000000000000
+    m_importFrom: ProjectSettings/UnityConnectSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000b100000000000000
+    m_importFrom: ProjectSettings/PresetManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000c100000000000000
+    m_importFrom: ProjectSettings/VFXManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7b4d400947ac4dba9b07c5df219c894
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/H2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db98ac102475d4252bf5bdd33412ce89
+    m_importFrom: Assets/Plugins/UnityPurchasing/Bin/Android/GoogleAIDL.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5bf9b42017c6747998e43553b5910158
+    m_importFrom: Assets/Plugins/UnityPurchasing/Resources/UIFakeStoreCanvas.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65175520398c648e4a5bc21797a03388
+    m_importFrom: Assets/AutoyaSample/7_Information/Resources/items.html
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 470e6520d97234d5f89039607e5e4adf
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/CONTENTTEXT.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62adda20446bb4764ae66938209d6cf2
+    m_importFrom: Assets/AutoyaTests/RuntimeData/InformationSample/Resources/InformationSampleRes/bg.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac281230df7b14becb40b3c479f1b429
+    m_importFrom: Packages/com.unity.collab-proxy/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49679f302ac6408697f6b9314a38985c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: acc34040a66fe4170bc8885268860cfe
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Images/Dark/error.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4eb34d40a86f34e39b58f21bfa24fa14
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node_images_source.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e0c6450057a2458583d25033ff1b83c
+    m_importFrom: Assets/Plugins/UnityPurchasing/iOS/UnityEarlyTransactionObserver.mm
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65d58d50c3db54f979b1ffae3777d74b
+    m_importFrom: Packages/com.unity.purchasing/License.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e2d44609749346b69c9495f77fcb798
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/FAIL.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ed39f609e1a14c66a64bc4229d2634b
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/H6.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e8dda701edce4dcfb8a802cc79b7258
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/Editor/SampleInfoView.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8034c807692d4dc8975b8b0df202123
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node5@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca51b19024094d1b87f3e07edb0a75fb
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7ff816907001241469aea4892b447a03
+    m_importFrom: Assets/Autoya/Notification/Plugins/iOS/OnUrlScheme.mm
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4c699e90bb8814bcf8bf22ada0d8b9f7
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/WARNING.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a30072a0b5cce44099cd44a5b9abf910
+    m_importFrom: Assets/Autoya/Editor/Libs/YamlDotNet/derivedfrom.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf9687b0f4c6049838695ff5eff91d16
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/SubResources/sample2.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 13171ab0bf8174959a2dd796f17d62db
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/TD.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 907baae0102874dd49e7f5b2c9dbd168
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node0.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d9a36012a224080966c7b55896aa0f9
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d3cbe921f7b3d9a3257e7c61a5761796
+    m_importFrom: Packages/com.unity.modules.terrainphysics/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2fdf9b215ba8b41eab51993ce9e31dd8
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/IMG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e59c7317e51470a833219e69cdeec75
+    m_importFrom: Packages/com.unity.textmeshpro/Plugins/64 Bit Plugins/TMPro_Plugin.bundle
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 510d1d319d2754ea4a47c6dd8c421ea0
+    m_importFrom: Packages/com.unity.analytics/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9cf7c14194bc145bd89be2204c82e513
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/UUebTags.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15272b41e3fd4498eacbc3faa7100875
+    m_importFrom: Assets/Editor/Autoya.AssetGraphIntegration/ListVersionSettings/sub_assets.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6277a751c6c9f46359fc7004b3ee12f0
+    m_importFrom: Packages/com.unity.package-manager-ui/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18775b51e3bd42299fd30bd036ea982f
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96d14b71b907bb52333b2886e665aba6
+    m_importFrom: Packages/com.unity.modules.video/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a4266815e998967becf686f9c71f0a6
+    m_importFrom: Packages/com.unity.modules.physics/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56923781e1583496c84e219055909dab
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/TITLETEXT.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46098a81a64a45c5b756320e10a22f13
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/iOS/libaudiopluginresonanceaudio.a
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0e3ad91972c66f5238f5b9b7d5ae58a
+    m_importFrom: Packages/com.unity.modules.unitywebrequesttexture/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7031d2a1ce77549d2a0e76fd25ae4517
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuSettings.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8854d3a15b59e49c3a11e48b110aa0c7
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/H1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bcd27da1c9ae94d2cafe094482a20792
+    m_importFrom: Packages/com.unity.analytics/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3fdd83b151eb8d25c5e2f82fc39dcb04
+    m_importFrom: Packages/com.unity.modules.unitywebrequest/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b3002c18d29d41b0898ab58bc6ee10d
+    m_importFrom: Packages/com.unity.package-manager-ui/LICENSE.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be4b06d1ee51e4ac2a01a0e499d4c214
+    m_importFrom: Packages/com.unity.purchasing/Documentation/IAP.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c5196e122b8e46d3aef4164c81252e8
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/SettingTemplate/setting.ttf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3aba9fe1ad29b42ffb0eea781318a626
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageManagerToolbar.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 384247f14efc449209c30fa17f268d4f
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/TABLE.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38c8faf1788024c02930a0c68a6e0edc
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/Android/gvr.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b95ab00277ee47c687d710a3bb623d0a
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/android_arm/libaudiopluginresonanceaudio.so
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3419c00222876481ca0d7314c37dad87
+    m_importFrom: Assets/Plugins/UnityPurchasing/Bin/Android/common.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c28f9162764b046f4914146389738ef1
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/SubResources/sample.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4f631c230c6c48c0a2dd2c2695f2742
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/UPDATETEXT.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1007cd261c84053beb0c3537782908d
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/Android/unitygvr.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5367ed2f72994b55af0964b29a5134a
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node7.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 57e5b4f272c13400db25084f10fea6a1
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/SettingTemplate/readme.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f7ecdf2556ad4d3a820aba90522fab4
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node7@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 929c52032603940c1abb8347e719306a
+    m_importFrom: Assets/Plugins/UnityPurchasing/Bin/Tizen/libTizenStore.so
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 90791303b72ec4ae198f99d637dfdf6c
+    m_importFrom: Packages/com.unity.purchasing/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d40e85137bc74864a47f42ceddfec228
+    m_importFrom: Packages/com.unity.textmeshpro/Plugins/vcomp120.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b48a2f13c40b045f9b2205828dbd7fc4
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/ConfigGraphIcon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c814623cb42764d304be0c5ddd03ceb
+    m_importFrom: Packages/com.unity.modules.xr/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b2e1f539bbe74d46baa369ea1ba1385
+    m_importFrom: Assets/Plugins/UnityPurchasing/Bin/Android/CloudMoolah.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7a8357347c80dc69c08d0b1a05e2122
+    m_importFrom: Packages/com.unity.modules.physics2d/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bfd567a3d1631a761bca9e99fa53d86d
+    m_importFrom: Packages/com.unity.modules.ui/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b355da31ea043feba0c03e35dd4bc62
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/Linux64/libaudiopluginresonanceaudio.so
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4dff96b374bd7441c8ad7f91fc6a3591
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0bf674c3f0a4e42228c87053bedac19e
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/ConnectionPoint.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ace62d30f494c948b71d5594afce11d
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84df76d3a620046bdb6ec1b3af64f59e
+    m_importFrom: Assets/AutoyaTests/RuntimeData/InformationSample/Resources/InformationSampleRes/test.html
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7576b8f317a11494eae65b2335689272
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/OutputBG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03eaacf3cb3e642a3a137ead7d9debba
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node3@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 41b96614b2e6494ba995ddcd252d11ae
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 995c7b348de57438c891b65236c1d7b2
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/SettingTemplate/setting.m4v
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9464586463c434f4a9ca322dc0df1350
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node2@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f768b64e6c37495699fffe3007e4379
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/Alert.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 55e457740fe60405dac77af143e1a867
+    m_importFrom: Assets/Plugins/UnityPurchasing/Icons/UnityEngine.Purchasing.IAPButtonIcon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44f39a74ca5ee4bf5936b17e901f251c
+    m_importFrom: Packages/com.unity.purchasing/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1f6d2184abe50470ca9c311e3c7c1d00
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/HR.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05c37a84702ba428f8f0a1ef6367e923
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuPrefabs/error.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e85ee2947fe44422d90dab56e1efdd91
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node4.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6fe576b47d8b47688ec5d02bccd15cf9
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/OSXIntel64/audiopluginresonanceaudio.bundle
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 806a9ab4d240d4001b91c16a718bf69f
+    m_importFrom: Assets/AutoyaTests/RuntimeData/InformationSample/Resources/InformationSampleRes/button.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 48d034c499ee4697af9dd6e327110249
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3cf132d4fa07f4f0cb2883499c5c7dd0
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Images/Dark/loading.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e0aa8d4cb3604d00be473b2b93ec105
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuPrefabs/fail.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f67e8d4b6cec4c3fbbcbf34acfabebd
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/System/Utility/Square.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2bc0d9d4d7b8e478c831da74cdf06151
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/LineDraw.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25ebe415cc14c4f4ea15c34a796b75bb
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageGroup.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24cb3b158b39942228bd6cd6f969b036
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 220e9325710f4235a43492dd1ee4980d
+    m_importFrom: Packages/com.unity.textmeshpro/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a61fb3505d794f81916042f7653c12e
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71b11355001648444b41d17fd36c150d
+    m_importFrom: Packages/com.unity.analytics/DataPrivacy/DataPrivacyButton.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a549b55a96c54e898b48b0e92f9f5e8
+    m_importFrom: Assets/Autoya/AssetBundle/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e0afa652c0031c48896a97b424d027b
+    m_importFrom: Packages/com.unity.textmeshpro/PackageConversionData_Assets.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e9a2175e0404f7ea30b2b694850bae0
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/Win/audiopluginresonanceaudio.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01e02995805eb483690380a911a657e2
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Images/Light/loading.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b7b2b95f2e714ae184abdb120ea18f4
+    m_importFrom: Assets/Plugins/UnityPurchasing/Changelog.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9cd36c958813a44ceb58d1eaefe3827c
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/CODE.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f707e1b57597248fbaf0da494c281547
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/THEAD.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 97dff1b5ae41ee84886ae7a80ae21499
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageAddFromUrlField.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8c9c93c53b37745ccb8901ff1489fd8f
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/Editor/Default.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 691475c57a824010be0c6f474caeb7e1
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05f5bfd584002f948982a1498890f9a9
+    m_importFrom: Packages/com.unity.textmeshpro/PackageConversionData.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1db7ee549d5147d4b42adf1b7396354
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/InputBG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 026474f5e29544af185a526bd1aebdf6
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node4@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 89baa4f52fa38496e8d0d6808762034f
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node5.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e9df95f53f1c1d0c9199e235d6c42b50
+    m_importFrom: Packages/com.unity.modules.audio/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76f42306b205543bf8fd126dd531dd99
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node8.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 57b0c806ba25b48aa8a6ecb3345a4a9b
+    m_importFrom: Packages/com.unity.collab-proxy/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 953fab16d15d5885b3600fcd6388b2ad
+    m_importFrom: Packages/com.unity.modules.imageconversion/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10bf81265ad87424d946598c575f45a0
+    m_importFrom: Packages/com.unity.ads/Editor/Resources/Editor/landscape.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96d2cf26bed484e33bcc7cefc49c4611
+    m_importFrom: Assets/Plugins/UnityPurchasing/Bin/Android/SamsungApps.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 351d05369d0714225825328aeb40d424
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuPrefabs/pass.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e43aeb364013b4857b8d788222692557
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/NEWBADGE.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d2d0f36e67d4518a07df76235e91f9a
+    m_importFrom: Packages/com.unity.textmeshpro/LICENSE.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d8a5c56437b84f7c95c388e8fd20c3d
+    m_importFrom: Assets/Plugins/UnityPurchasing/Resources/BillingMode.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1ef8466c8fd01a549f10baa4d51fa17
+    m_importFrom: Packages/com.unity.modules.assetbundle/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c20856617c24cf99a5212838cacc239
+    m_importFrom: Packages/com.unity.textmeshpro/Plugins/64 Bit Plugins/TMPro_Plugin.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92a378669877c05c6071d0fed687bb95
+    m_importFrom: Packages/com.unity.modules.tilemap/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 406e7a664cf5b47b8bea6929347c3122
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node6.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7976a17623ac1438d8a77b8e1ccf6b66
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/PRE.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81ed8c76d2bc4a4c95d092c98af4e58f
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 915cd5b6f130d4702a71639f53541aed
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/STRONG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64b9fad609434c489c32b1cdf2004a1c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 470530e667ad4475786b28fa3187ce95
+    m_importFrom: Packages/com.unity.collab-proxy/DEPENDENCIES.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 782c49e6e68074dc7ba12c95537825ce
+    m_importFrom: Packages/com.unity.collab-proxy/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ba2bb307d51bc4e479fe4e101d37295d
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/PASS.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 928b290746aa740428fdb3021b136b4c
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node6@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f8dd2517b608b4a7ea9098574b4e6969
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 10145f279f90346bbb61712ff585828b
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageItem.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 930036374055b4b979f30b0e7075ece0
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/BG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 89fcf737c43a04757ae2e75fbd4ea42a
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/UL.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35ff0937876540d3bd4b6a941df62a92
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b518b37798c97b0f860962cbf615533
+    m_importFrom: Packages/com.unity.modules.unitywebrequestaudio/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35d68877601ee448e9dc2b63ccd3c80b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/TemporalSettingFiles/AssetBundleBuildMap.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 80beef77cb19e713c7c2d481b65ed485
+    m_importFrom: Packages/com.unity.modules.screencapture/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d6f82a762acb4417b895d3babc790f9
+    m_importFrom: Packages/com.unity.package-manager-ui/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f8eca3a711f4842eba0c52ea9885ef7f
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Images/Light/download.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ee40aa79cd242a5b53b0b0ca4f13f0f
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input
+      Field Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af0644b7d48a447c3aeca52a3618bc77
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuPrefabs/slack.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e6f1bb79354d4d14a965de286d966d5
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node6.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 22464cf7ab0243a6bf9c79851183b002
+    m_importFrom: Packages/com.unity.textmeshpro/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a4f23087dd7a4e2fa4d5f7a24633c46
+    m_importFrom: Assets/Autoya/Persistence/Plugins/iOS/StorageMeasure.mm
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93c1370867fcb45079592da39e0994c5
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageDetails.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67b4de080f56845a09dfdbf9742a16e5
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node3.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb8c96287a087455ab5f02f76f764c10
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node8@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18678a28cef624aeb89c5717c46be35b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/SettingTemplate/setting.fbx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee148e281f3c41c5b4ff5f8a5afe5a6c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font
+      Asset Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 536c0048c80e8407084e29942e15685b
+    m_importFrom: Packages/com.unity.package-manager-ui/Third Party Notices.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 429ce9486f53e401aa2c3488d4de2090
+    m_importFrom: Assets/Autoya/Backyard/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20dd03585482b4892a07d6dd5adb3ecc
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/d_AssetGraphWindow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39af4358c6ce647da8b1e384deace5dc
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/BG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed041e68439749a69d0efa0e3d896c2e
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 12736c98af174f91827a26b66d2b01b9
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2f7f6a88b4c4f20a53deb72f3d9144c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidLine.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c63d12b8197e0466bb01427f0f4d999b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node_images_source@2x.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 84ec57b849cf04a7fb962cade2afa3c7
+    m_importFrom: Assets/Autoya/Information/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e982cdb817d95458190ee8c2814dda6d
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/UUebTags.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a2d94c8977984b67984caeff9fa666e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Resources/Styles/CollabHistoryCommon.uss
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5f2ba7c8d818b4a91913f742e8f9fe59
+    m_importFrom: Assets/UUebView/FOT-SlumpStd-DB.otf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 42fe78c8fe682715a2cb531422e6ccb3
+    m_importFrom: Packages/com.unity.modules.imgui/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5fa5a4d85cee44cc3a050e131b9b6098
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node3@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf2fcbd8c80644b4692f6f5f55cfdbfe
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuPrefabs/timeout.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05f7f519769978b79b31d063a7fc6fa1
+    m_importFrom: Packages/com.unity.modules.unitywebrequestassetbundle/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: faf47e19f55544fafac36074c0496dcc
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/A.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec5ec1496f4ed40b9a67e5b76a534e22
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/nestedPrefab.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b75fbb59985284e6295a0fff88ce22ab
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/OL.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 952983696604e4017baff2ad80c91842
+    m_importFrom: Assets/Autoya/Connections/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15bf9c691b85b41a39c18bee2f87e21b
+    m_importFrom: Packages/com.unity.analytics/License.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efc78e892ae6646b8b9f922f8d15eca8
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/H4.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8adf019998f124b7d8692b8083b72505
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/SettingTemplate/setting.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e7c9ab97e5884e4eaa5967e9024f39d
+    m_importFrom: Packages/com.unity.analytics/Editor/AnalyticsEventTracker icon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 681b9db99989446a4b5defc5b1c38546
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/H3.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 066619c9c9c84f89acb1b48c11a7efe2
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb42b2d967d6427983c901a4ffc8ecd9
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidline_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 599a5fd92bab81a4ab02e52d0b1b1c60
+    m_importFrom: Packages/com.unity.analytics/DataPrivacy/DataPrivacyIcon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa6bd40a216346b783a4cce741d277a5
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 612b650a713fc412c8718969d9fdd98d
+    m_importFrom: Assets/Autoya/Persistence/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4bc1750a390a64f5f8f0fa188f38ed83
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/BODY.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c754112a02f354a6696fa4f2b99e95a5
+    m_importFrom: Packages/com.unity.collab-proxy/LICENSE.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e68d922aabe4948a2af68d46db95d4a9
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node2@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0f13f2ab3d6d13cfc6e4656824bfca8
+    m_importFrom: Packages/com.unity.modules.ai/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae3ba93a359be43028ab177bfbf6af50
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/SettingTemplate/setting.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 400ebb3a4d4e34e628d68835a317a77b
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/TITLEBOX.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4c6fe94acbb24417c988bab18cbd5209
+    m_importFrom: Packages/com.unity.ads/License.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bbb2e4a841234f29b0f7698a19bc043
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/TEXTBG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 70d4d75a2877243758b0750cbc75b6eb
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Resources/Styles/CollabHistoryDark.uss
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6afb166a156df2d20433d981f4bb2832
+    m_importFrom: Packages/com.unity.modules.vehicles/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb15697a279504a90b825c44dc355047
+    m_importFrom: Packages/com.unity.purchasing/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 23805a7a1623842b0b7b21158066bd90
+    m_importFrom: Packages/com.unity.package-manager-ui/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 403f9a7a077a74263bab6b89198eaf4c
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node0@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7ec9e7ad8b847b7ae4510af83c5d868
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown
+      Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b365b28ae20ec41abbfa5e14315da389
+    m_importFrom: Assets/Editor/Autoya.AssetGraphIntegration/ListVersionSettings/main_assets.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 342a0f8aca7f4f0691338912faec0494
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67f46aaa3a61041c4a7643de662213e5
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/ICONBG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5464a3ba49e8a4790854f18e82e57791
+    m_importFrom: Assets/AutoyaTests/RuntimeData/InformationSample/Resources/InformationSampleRes/textbg.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c76700ea0062413d9f69409b4e9e151b
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d85e5eeaf8f135aeaaebdc8aa3cff6c3
+    m_importFrom: Packages/com.unity.modules.umbra/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 87d720faa37005c08600090e04d8c739
+    m_importFrom: Packages/com.unity.modules.particlesystem/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4cfd6cfa37669493b97c700ea6e97df4
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/SHOWBUTTON.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 98d66c1b5065d4153bd60a0654860861
+    m_importFrom: Assets/Plugins/UnityPurchasing/Bin/Android/GooglePlay.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 75ce4a2b9ce8e45f9bcb12d38ed95952
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeStyle.guiskin
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d21ab03b5a3f24fa883f2fca7c06500c
+    m_importFrom: Assets/AutoyaSample/11_Resources/Resources/SampleResource/shisyamo.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e05ace3bd15740cda0bad60d89092a5b
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3bb0254b9671413d9d08a855c5090237
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/android_arm64/libaudiopluginresonanceaudio.so
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca838f4bb82c84e22b8e1946bc63cc5d
+    m_importFrom: Assets/Plugins/UnityPurchasing/iOS/UnityEarlyTransactionObserver.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7587bd5bb45d14d459aa674e8fc63ada
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/TH.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7ef8348b8ea834d7e1bc214b07f7fb87
+    m_importFrom: Packages/com.unity.modules.animation/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fac941bb5da764205a1cdc5328e97354
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/P.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bc445bb79654bf496c92d0407840a92
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ab1bcbb000bd41018384e565c288604
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node5.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 585b70cb75dd43efbfead809c30a1731
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7acadbcb2b1414eb9a9fcb284f835061
+    m_importFrom: Assets/AutoyaTests/RuntimeData/inSceneImageData.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e74ddcb4e22c4cfc94b454f0aeb1573
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node0.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b32abd1c9d73a4cce8389f084ac12b11
+    m_importFrom: Packages/com.unity.ads/Editor/Resources/Android/builds/unity-ads.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6e2d432c5ea14e75aa3a79f90f704442
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/Win64/audiopluginresonanceaudio.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35b4e72ca46f44581b85082c4dc21d13
+    m_importFrom: Packages/com.unity.ads/CHANGELOG.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33d3dd2c39dfd49a3b2d36b20225624a
+    m_importFrom: Assets/Plugins/UnityPurchasing/Icons/LinkBlack.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f9b343cc0cc840ac9096a4e0c9e620a
+    m_importFrom: Assets/Plugins/UnityChannel/Android/UnityChannel.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e6a514caf8074b77ab7b6aaaea937e0
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuPrefabs/MiyamasuCanvas.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78ce924c1536e4fb88d91fff535a384b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node8@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e894774cf91254659b74b8cec9018c48
+    m_importFrom: Assets/AutoyaTests/RuntimeData/InformationSample/Resources/InformationSampleRes/new.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5b60c4c9c31a48de997f40e86fce8dd
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node0@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1cc4426cea05e4d9a92364da039f01b7
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node4@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9288066c33474b94b6ee5465f4df1cc0
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03fbc86c250f24bc09195685ef7d8aa7
+    m_importFrom: Assets/Autoya/Purchase/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9521d6c800f04281a3241a1e4b94e69
+    m_importFrom: Assets/Autoya/Encrypt/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 29f1597c665764d9e90b435196896d41
+    m_importFrom: Assets/Editor/graphs/main_assets.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 519a7d8c957b74d4796e109c00242ce0
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node8.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e679a29ca22bc4fa0bd848bd79a42b79
+    m_importFrom: Assets/Plugins/UnityPurchasing/Icons/LinkWhite.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4edd7b9c0708c41c394a7eccef5710f3
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node1@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b83f06ac0c0696e9563230865ca72b81
+    m_importFrom: Packages/com.unity.modules.wind/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 906c12bc9cd95d3963c6d58f62522c78
+    m_importFrom: Packages/com.unity.modules.cloth/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4c433abcdb28444ebb7bd395ba5c76fc
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Images/Light/error.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bae31dbc8741340eeb4019b8d459b810
+    m_importFrom: Assets/Plugins/UnityPurchasing/Editor/IAPUpdaterPreferences.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b51c3dc205df425bb581cfc489b2380
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node1@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc5260ec2e5ad4118ad681fc8a99cc35
+    m_importFrom: Assets/Editor/derivedfrom.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 40bf3cec17fa0b49fe04443c8332d638
+    m_importFrom: Packages/com.unity.modules.jsonserialize/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7985c15d22a204e13a9aec1dc303b876
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/TEXTBG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d4f4655d1b1dc4085980f551420e2d6c
+    m_importFrom: Assets/Autoya/Notification/Plugins/Android/urlschemeplugin.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4dfd3f5da88944ec6ac5977d676c30c6
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Images/Dark/download.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca77d26d10b9455ca5a4b22c93be2a31
+    m_importFrom: Packages/com.unity.textmeshpro/Documentation/TextMeshPro.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 46c02d8d6499b4309ac1ec5d0b818585
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageList.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 26a4f29db434fd79025c91f6126382cc
+    m_importFrom: Packages/com.unity.modules.unityanalytics/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a945879def12d4371b851e060a6ecd3a
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/TIMEOUT.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62772aad98ed04f0d955b7d20de61f7f
+    m_importFrom: Packages/com.unity.ads/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 509a80bd0fc9a40d19edc9da425b6b02
+    m_importFrom: Assets/Plugins/UnityPurchasing/Bin/Android/AmazonAppStore.aar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 944b4dcd299ab4a81b4aa1a2b33be9b4
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/EM.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cae063ddc76f7473fab096e32ca39900
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/TBODY.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be1e85fd9ff0f4eeba1e913fb7df5682
+    m_importFrom: Assets/Plugins/UnityPurchasing/iOS/UnityPurchasing.m
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fea02cfd1c82a4cf39144927560dd7bc
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/UUebTags.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a54eac0e085a44468963fa57f209470d
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TextMeshPro
+      Inline Graphics icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 884f8f0e4025a420893d3a8d1d3063e1
+    m_importFrom: Packages/com.unity.analytics/README.md
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fea4e72e0941e42bdb611e8fa916dd2c
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/SettingTemplate/setting.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 31fbfd2e1739143bca7be3cf1c00d66e
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/TEXTBOX.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa27413e9edb06a6058d6c894eca0338
+    m_importFrom: Packages/com.unity.modules.unitywebrequestwww/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7136d73e8820d4135bcd6720bf5f3721
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 147e1c5e3b84d42abb5da0f6a995d7ec
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/H5.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9759046ea19bd4f1f876f5bef6a8d45f
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/TR.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dced8f6ea9f964e8e8e61574ea889d21
+    m_importFrom: Packages/com.unity.ads/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed27888e1684140fe8f6cb05957e5b6b
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node3.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44197a9e9fe0f4bae9fefc4e38cf2db7
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/updatableTex.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b32bcce201b4494ea8848326290c5d5
+    m_importFrom: Packages/com.unity.ads/Editor/Resources/Editor/portrait.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2fd6421f253b4ef1a19526541f9ffc0c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text
+      Component Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5b4de33f65ec448ec9085f9c0bf149db
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a351e34f498484244b06393e5b61e20f
+    m_importFrom: Assets/Autoya/Manifest/ShouldGitIgnore/Resources/BuildManifest.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d56244f8c39a851975d3c0bd432c66f
+    m_importFrom: Packages/com.unity.modules.terrain/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: df539a4f6e29041558c3299a6f550aad
+    m_importFrom: Assets/Plugins/UnityPurchasing/iOS/UnityPurchasing.h
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c1d19d4f2ae2342a88a65218645d4def
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/ERROR.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec02776fe29df900b897106d61977735
+    m_importFrom: Packages/com.unity.modules.director/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 710c527ffdb7f4b25a392f45cd733c84
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/Default/LI.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bfe3797fca69b44589c23dbbdb59ee52
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node7.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92027f7f8cfc4feaa477da0dc38d3d46
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afc3569f912a446bc839b0acf18ac47c
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/node7@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f0f9b9f3ed97ad2b9ba8f1a8e4666c2
+    m_importFrom: Packages/com.unity.modules.uielements/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9df07bfff56e4b4fbb99c86c7f4cc48
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/MYA.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa2529bf9209243c48e658c607b0c8f2
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node5@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e45ed4cf838fe446eb41c0d7cca4c557
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Libs/UUebView/Runtime/Resources/Views/ConsoleTag/CHECKMARK.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e4d29bcf24c55485d9da2cd32aebfe28
+    m_importFrom: Assets/Editor/graphs/sub_assets.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e6582ecf1a0cd414d898ca6887ba4a62
+    m_importFrom: Assets/AutoyaTests/RuntimeData/AssetBundles/MainResources/textureName2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9d6beecfb0c514c9782641af7bdbe9ba
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/AssetGraphWindow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2b693dffac3a4433b3114fea0b7fd4e
+    m_importFrom: /Applications/Unity2018.3.7f1/Unity.app/Contents/UnityExtensions/Unity/VR/Android/libprotobuf-java-nano.jar
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 53cbf3dff9e454adca213d71cb3f84ed
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Resources/MiyamasuPrefabs/warning.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 70386adfe4bc543738485e577a33a7ea
+    m_importFrom: Assets/UUebView/GeneratedResources/Resources/Views/SampleInfoView/SHOWBUTTONBG.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18a4fadfef534684d5af39ca8dc48fe9
+    m_importFrom: Packages/com.unity.modules.vr/package.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c99f06ff0dde241d1a363bbd8ef932a2
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Editor/GUI/GraphicResources/NodeImage/on_node4.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bbec1324b05a54939ad2fea2d7e11063
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageStatusBar.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b52bde26a83564960bcb90217f72b910
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Resources/Styles/CollabHistoryLight.uss
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: abdc053b8e3644f299aedc641d609a84
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Styles/Main_Light.uss
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7559cdbc33f04af1a5a42d2aa5b40a5
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Styles/Main_Dark.uss
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cd44c1bc0fa624a39aa784af44c62180
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageSearchToolbar.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a8d9e44eff3f447db9448925617ccb44
+    m_importFrom: Packages/com.unity.package-manager-ui/Editor/Resources/Templates/PackageManagerWindow.uxml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/nestedprefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/nestedprefab.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/texturename
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/texturename.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/texturename1
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/texturename1.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/texturename2
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/texturename2.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/updatabletex
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/updatabletex.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/OSX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX/OSX.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d/OSX/sample
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d/OSX/sample.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d/OSX/sample2
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d/OSX/sample2.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d/OSX/OSX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d/OSX/OSX.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0bcbf043bfde4fd1ae6f63c369b5756
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205/OSX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7109eb49760642d0be78c0c5ef0f603
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d/OSX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 898990171d61840d2b46616b2b29cc60
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/f22a6572-de57-46ab-beeb-057fa48e8205
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b2e65687ca65417c9caa886a189f304
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/a3e4b342-3e69-4af9-9386-10473436c67d
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62b8862c3677e4390985c0cca2bb9970
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5cdf64c4aea164689ad25bd2ff155e74
+    m_importFrom: Assets/Packager/AssetBundles/Editor/AssetBundlesPackager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1504698cd28c4f1080344c9ad2d3961
+    m_importFrom: Assets/Packager
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e42aedafd4c44a9889c2c0c6504cfac
+    m_importFrom: Assets/Packager/AssetBundles
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: acdf0bddd860b4da4b1976aaed73ff9d
+    m_importFrom: Assets/Packager/AssetBundles/AssetBundlesLoadSample.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8546556c846534761ac30dd8aeb2f61e
+    m_importFrom: Assets/Packager/AssetBundles/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f6ead51be45743399e6ce8a12678047
+    m_importFrom: Assets/MiyamasuTestRunner/Runtime/Generated/GeneratedTestEntryPoints.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: beabab81fac9c4cfeb330a7a850aeccc
+    m_importFrom: Assets/Plugins/UnityPurchasing/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b07534269e5484da791c360d30c6ce27
+    m_importFrom: Assets/Plugins/UnityPurchasing/ETag
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2628f297056214eb5bfc03285c5c8e77
+    m_importFrom: Assets/Plugins/UnityPurchasing
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5819bd91b0ef7448f934b88e784a5678
+    m_importFrom: Assets/Plugins/UDP/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c1e541053b060427ba87a5d7e32d851d
+    m_importFrom: Assets/Plugins/UDP/Editor/Analytics
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11c0840a94aed4ea99cb630d709e7342
+    m_importFrom: Assets/Plugins/UDP/Android
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6ffa1dd8447c4faf8547b3fd67abfa1
+    m_importFrom: Assets/Plugins/UDP
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: debd5aae58ab54152ab056a81782fb98
+    m_importFrom: Assets/Scenes/UniRxScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae680b2eac00d44d39f902e29c7230ce
+    m_importFrom: Assets/Scripts/UniRx
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dfac56068234c4ebf9525704785ff59f
+    m_importFrom: Assets/Scripts/UniRx/UniRxScene.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 692c75412feab43dd94b8a5333e7c139
+    m_importFrom: Assets/Scripts/UniRx/UniRxScene.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 199e893e4f4e44eafbe29ecbb4e28c6e
+    m_importFrom: Assets/AB/Arkanoid
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8868fa901eab74d65a2121afcd56d422
+    m_importFrom: Assets/Scripts/UniRx/Arkanoid/Ball.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 29c7a9a1571494976bae35c49d7d4e13
+    m_importFrom: Assets/Scripts/UniRx/Arkanoid.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a67e0442b230b4e85a1e259b95737fef
+    m_importFrom: Assets/AB/Arkanoid/Materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38e3ab14bfa4a4afc97863b02dcf2325
+    m_importFrom: Assets/Scripts/UniRx/Arkanoid/CameraFitter.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dca1f9d57e7074aeca87fb0b725c8c44
+    m_importFrom: Assets/AB/Arkanoid/Images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81b7f8f5c1b7645fd9785823305a0510
+    m_importFrom: Assets/Scripts/UniRx/Arkanoid
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c469d5baa8f744c928bc6ebe148652f5
+    m_importFrom: Assets/Scripts/UniRx/Arkanoid/Racket.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c327fcb5abb24f60a9ad632bb30de37
+    m_importFrom: Assets/Scripts/UniRx/Arkanoid/Block.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f83b0c3c47fff4cb8917a9bc0e239c93
+    m_importFrom: Assets/Scripts/UniRx/Arkanoid.cs.answer
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0cdf5493306c84a3ba887232f1d4c6ad
+    m_importFrom: Assets/AB/Arkanoid/Images/block_blue.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2afa4bf45ba954f9d890337906e8368f
+    m_importFrom: Assets/AB/Arkanoid/Images/block_pink.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4226a706aae1940e4ad601f3387eab83
+    m_importFrom: Assets/AB/Arkanoid/Images/border_right.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82545c68556984c1497f1abea00f3b86
+    m_importFrom: Assets/AB/Arkanoid/Images/ball.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 562c9ab8f766640459a422a3efc21a6c
+    m_importFrom: Assets/AB/Arkanoid/Images/block_yellow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 45b48af9c65eb4c7ea381dbdfe628afc
+    m_importFrom: Assets/AB/Arkanoid/Images/block_red.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7144235a14b9a4bb887450c30c85b156
+    m_importFrom: Assets/AB/Arkanoid/Materials/BallMaterial.physicsMaterial2D
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f726618a2c80c4933aa72727d3b8dcab
+    m_importFrom: Assets/AB/Arkanoid/Images/hexagon_pattern.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4050e38ebc8a04b58b126af712d9d7be
+    m_importFrom: Assets/AB/Arkanoid/Images/border_left.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64f986eec3fb94de893f51231aafddda
+    m_importFrom: Assets/AB/Arkanoid/Images/racket.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1614ff7ff1706485ebe90bdceb15cdcf
+    m_importFrom: Assets/AB/Arkanoid/Images/border_top.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4459cedf904024e42a4fef52ea84db73
+    m_importFrom: Assets/AB/Arkanoid/Images/block_green.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77b7e0ea19b6b46368db744557e7e385
+    m_importFrom: Assets/Scenes/Arkanoid.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_importFrom: Assets/Editor/graphs/abdata.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 66224aaf40eec4480b7c0d7a53234736
+    m_importFrom: Assets/Autoya/Editor/Libs/YamlDotNet/LICENSE
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc2dac1df7d5546bab5a738a94387738
+    m_importFrom: Assets/Autoya/Editor/Libs/YamlDotNet/YamlDotNet.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e9bae47e7491b4bc588e913c096420f8
+    m_importFrom: Assets/Autoya/Information/UUebView.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8dbd51f1e0f8f409993cffd251f70991
+    m_importFrom: Assets/Autoya/Information/UUebViewPlugins/TMProPlugin.cs.gz
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88c6ad796e6d444d7818ec2f51b93045
+    m_importFrom: Assets/Autoya/Manifest/ShouldGitIgnore/Resources/dummyfile
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e5c35e88767624eeebafadb7adb58a3a
+    m_importFrom: Assets/Autoya/Notification/Plugins/Android/URLSchemePluginProject.zip
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8c7488c63d78d4d9a9f85acb93a89dc9
+    m_importFrom: Assets/Plugins/Android/AutoyaAndroidPlugin/AndroidManifest.xml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d0a71d497dd1497698ddd8b42d7a5ba
+    m_importFrom: Assets/Plugins/Android/AutoyaAndroidPlugin/project.properties
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a4aea8df1ad11c47a1db84432dd30f8
+    m_importFrom: Assets/Plugins/UniRx/Examples/Sample12Scene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 173222196f3e1f0448b383f260df7d44
+    m_importFrom: Assets/Plugins/UniRx/Examples/Sample13_ToDoItem.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b879645f640b02b43a8e78e210c1da1f
+    m_importFrom: Assets/Plugins/UniRx/Examples/Sample13Scene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 71799519d12379b49b6b53aea974bea5
+    m_importFrom: Assets/Plugins/UniRx/Examples/UniRx.Examples.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52d665ea30c2a3a49a6fa4b3b5a0349a
+    m_importFrom: Assets/Plugins/UniRx/ReadMe.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 560b04d1a97f54a4e82edc0cbbb69285
+    m_importFrom: Assets/Plugins/UniRx/Scripts/UniRx.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c658a439ad0704031b4b5c5903b92317
+    m_importFrom: Assets/Scenes/GameObjectScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 47ae8aca4bfd8467cade1f3587ac14e3
+    m_importFrom: Assets/Scenes/UIScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1b1cf275bb0840808f187cc88cdd8f4
+    m_importFrom: Assets/Scripts/GameObject/GameObject.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 965fe710fc7774e06a2a5d7e917f0f53
+    m_importFrom: Assets/Scripts/UI/UI.asmdef
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1b8d251f9af63b746bf2f7ffe00ebb9b
+    m_importFrom: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3265ab4bf004d28a9537516768c1c75
+    m_importFrom: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6e59c59b81ab47f9b6ec5781fa725d2c
+    m_importFrom: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f586378b4e144a9851e7b34d9b748ee
+    m_importFrom: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e73a58f6e2794ae7b1b7e50b7fb811b0
+    m_importFrom: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Drop Shadow.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2e498d1c8094910479dc3e1b768306a4
+    m_importFrom: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 79459efec17a4d00a321bdcc27bbc385
+    m_importFrom: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Outline.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fade42e8bc714b018fac513c043d323b
+    m_importFrom: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d82c1b31c7e74239bff1220585707d2b
+    m_importFrom: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 128e987d567d4e2c824d754223b3f3b0
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 48bb5f55d8670e349b6e614913f9d910
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Custom-Atlas.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e3b057af24249748ff873be7fafee47
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_Bitmap-Mobile.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68e6db2ebdc24f95958faec2be5558d6
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dd89cf5b9246416f84610a006f916af7
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF Overlay.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fe393ace9b354375a9cb14cdbbc28be4
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bc1ede39bf3643ee8e493720e4259791
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Masking.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a02a7d8c237544f1962732b55a9aebf1
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7ada0af4f174f0694ca6a487b8f543d
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 85187c2149c549c5b33f0cdb02836b17
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Surface-Mobile.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf81c85f95fe47e1a27f6ae460cf182c
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 407bc68d299748449bbf7f48ee690f8d
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3997e2241185407d80309a82f9148466
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMPro_Properties.cginc
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d930090c0cd643c7b55f19a38538c162
+    m_importFrom: Assets/TextMesh Pro/Resources/Shaders/TMPro_Surface.cginc
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c41005c129ba4d66911b75229fd70b45
+    m_importFrom: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f952c082cb03451daed3ee968ac6c63e
+    m_importFrom: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3f5b5dff67a942289a9defa416b206f3
+    m_importFrom: Assets/TextMesh Pro/Resources/TMP Settings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dffef66376be4fa480fb02b19edbe903
+    m_importFrom: Assets/TextMesh Pro/Sprites/EmojiOne.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f05276190cf498a8153f6cbe761d4e6
+    m_importFrom: Assets/TextMesh Pro/Sprites/EmojiOne.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 381dcb09d5029d14897e55f98031fca5
+    m_importFrom: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b3f4328ca7263407580d52d372af150d
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/TemporalSettingFiles/AssetProcessEventRecord.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e05feae4a4b2149428ef7034fbc2c3f6
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/2147483647(deprecated)
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e9a6f95067824ab293035672a416b88
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e11d6576a684d483daeafe225dff58f2
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_images
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_images
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_images.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_images.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_materials
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_materials
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_materials.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_materials.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_images
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_images
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_images.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_images.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_materials
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_materials
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata_materials.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata_materials.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/abdata.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/OSX/abdata.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/abdata_images
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/AssetBundles/abdata_images
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/abdata_images.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/AssetBundles/abdata_images.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/abdata_materials
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/AssetBundles/abdata_materials
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/abdata_materials.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/AssetBundles/abdata_materials.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/abdata
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/AssetBundles/abdata
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/abdata.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/AssetBundles/abdata.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/AssetBundles
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundles/AssetBundles.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesC/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesC/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesC/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesC/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesC/AssetBundlesC
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesC/AssetBundlesC.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCa/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCa/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCa/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCa/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCa/AssetBundlesCa
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCa/AssetBundlesCa.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCac/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCac/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCac/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCac/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCac/AssetBundlesCac
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCac/AssetBundlesCac.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCach/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCach/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCach/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCach/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCach/AssetBundlesCach
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCach/AssetBundlesCach.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/AssetBundlesCache
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/AssetBundlesCache.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/a/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/a/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/a/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/a/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/a/a
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/a/a.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/ab/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/ab/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/ab/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/ab/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/ab/ab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/ab/ab.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abb/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abb/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abb/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abb/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abb/abb
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abb/abb.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbd/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbd/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbd/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbd/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbd/abbd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbd/abbd.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbda/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbda/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbda/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbda/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbda/abbda
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbda/abbda.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdat/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdat/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdat/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdat/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdat/abbdat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdat/abbdat.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdata/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdata/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdata/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdata/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdata/abbdata
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abbdata/abbdata.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abd/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abd/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abd/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abd/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abd/abd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abd/abd.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abda/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abda/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abda/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abda/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abda/abda
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abda/abda.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdat/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdat/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdat/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdat/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdat/abdat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdat/abdat.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/abdata
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/abdata.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{/{
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{/{.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{}/{}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{}/{}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{p}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{p}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{p}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{p}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{p}/{p}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{p}/{p}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{P}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{P}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{P}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{P}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{P}/{P}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{P}/{P}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pl}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pl}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pl}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pl}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pl}/{Pl}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pl}/{Pl}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pla}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pla}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pla}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pla}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pla}/{Pla}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Pla}/{Pla}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Plat}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Plat}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Plat}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Plat}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Plat}/{Plat}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Plat}/{Plat}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platf}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platf}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platf}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platf}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platf}/{Platf}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platf}/{Platf}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfo}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfo}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfo}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfo}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfo}/{Platfo}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfo}/{Platfo}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfor}/abdata_images
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfor}/abdata_images.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfor}/abdata_materials
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfor}/abdata_materials.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfor}/{Platfor}
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/{Platfor}/{Platfor}.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/OSX/abdata_images
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/abdata/OSX/abdata_images
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/OSX/abdata_images.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/abdata/OSX/abdata_images.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/OSX/abdata_materials
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/abdata/OSX/abdata_materials
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/OSX/abdata_materials.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/abdata/OSX/abdata_materials.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/OSX/OSX
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/abdata/OSX/OSX
+    m_variantName: 
+  - m_assetDatabaseId: 
+    m_importFrom: AssetBundlesCache/abdata/OSX/OSX.manifest
+    m_exportTo: /Users/cokkler/TestProject/AssetBundles/abdata/OSX/OSX.manifest
+    m_variantName: 
+  - m_assetDatabaseId: 937da9f73bac644e78d533a55de13736
+    m_importFrom: Assets/Editor/Autoya.AssetGraphIntegration/ListVersionSettings/abdata.json
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 122b204109592419183cea8e547b359f
+    m_importFrom: Assets/link.xml
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b2f374c66187b4a5289c834a147fffa1
+    m_importFrom: Assets/Scripts/Autoya
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed301020206224cd4a419bbfe3db7e26
+    m_importFrom: Assets/Scripts/Autoya/AutoyaScene.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e2d07236c683b4f699ead9fae93d7d1d
+    m_importFrom: Assets/Scenes/AutoyaScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f8d46d5f40e4e42ea809bc6e5200e08e
+    m_importFrom: Assets/Scripts/Autoya/ResourceManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 740811ee6013441f2a65984de333a38c
+    m_importFrom: Assets/Scripts/Autoya/AutoyaScene.asmdef
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7cfce4400474688aa803f13d8eb448, type: 3}
+  m_Name: AssetBundleBuildMap
+  m_EditorClassIdentifier: 
+  m_assetBundles:
+  - m_assetBundleName: abdata_images
+    m_assetBundleVariantName: 
+    m_fullName: abdata_images
+    m_assets:
+    - original: Assets/AB/Arkanoid/Images/ball.png
+      lower: assets/ab/arkanoid/images/ball.png
+    - original: Assets/AB/Arkanoid/Images/block_blue.png
+      lower: assets/ab/arkanoid/images/block_blue.png
+    - original: Assets/AB/Arkanoid/Images/block_green.png
+      lower: assets/ab/arkanoid/images/block_green.png
+    - original: Assets/AB/Arkanoid/Images/block_pink.png
+      lower: assets/ab/arkanoid/images/block_pink.png
+    - original: Assets/AB/Arkanoid/Images/block_red.png
+      lower: assets/ab/arkanoid/images/block_red.png
+    - original: Assets/AB/Arkanoid/Images/block_yellow.png
+      lower: assets/ab/arkanoid/images/block_yellow.png
+    - original: Assets/AB/Arkanoid/Images/border_left.png
+      lower: assets/ab/arkanoid/images/border_left.png
+    - original: Assets/AB/Arkanoid/Images/border_right.png
+      lower: assets/ab/arkanoid/images/border_right.png
+    - original: Assets/AB/Arkanoid/Images/border_top.png
+      lower: assets/ab/arkanoid/images/border_top.png
+    - original: Assets/AB/Arkanoid/Images/hexagon_pattern.png
+      lower: assets/ab/arkanoid/images/hexagon_pattern.png
+    - original: Assets/AB/Arkanoid/Images/racket.png
+      lower: assets/ab/arkanoid/images/racket.png
+    m_registererId: 7660c00e-58c7-40e2-acd1-9f1e53c00fff
+  - m_assetBundleName: abdata_materials
+    m_assetBundleVariantName: 
+    m_fullName: abdata_materials
+    m_assets:
+    - original: Assets/AB/Arkanoid/Materials/BallMaterial.physicsMaterial2D
+      lower: assets/ab/arkanoid/materials/ballmaterial.physicsmaterial2d
+    m_registererId: 7660c00e-58c7-40e2-acd1-9f1e53c00fff
+  m_version: 1

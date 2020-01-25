@@ -1,0 +1,2 @@
+/Users/cokkler/TestProject/obj/Debug/AutoyaScene.csprojAssemblyReference.cache
+/Users/cokkler/TestProject/obj/Debug/AutoyaScene.csproj.CoreCompileInputs.cache

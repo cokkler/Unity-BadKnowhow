@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d9a5f17c54584a67b7fe58665965f15, type: 3}
+  m_Name: AssetProcessEventRecord
+  m_EditorClassIdentifier: 
+  m_events:
+  - m_kind: 1
+    m_timestampUtc: 132244092323721410
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundles/AssetBundles
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244093110166310
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/Assets/Editor/AssetGraph-1.4-release/UnityEngine.AssetGraph/Cache/AssetBundles/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244094354813380
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244094568624230
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundles/AssetBundles
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244094733974630
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244096335778400
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244096416942000
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundles/AssetBundles
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244096657101610
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundles/AssetBundles.manifest
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244096810424360
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244097193925310
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+      does not exist
+    m_howToFix: See Console for detail.
+  - m_kind: 1
+    m_timestampUtc: 132244111322955140
+    m_assetName: 
+    m_assetGuid: 
+    m_graphGuid: 1010279576b5b4a0f9469cc7fb7d2ba7
+    m_nodeId: 2af33249-a84a-4f7a-b79b-4a34f1c4beb2
+    m_nodeName: Build Asset Bundles
+    m_description: System.IO.FileNotFoundException:/Users/cokkler/TestProject/AssetBundlesCache/2af33249-a84a-4f7a-b79b-4a34f1c4beb2/OSX/OSX
+      does not exist
+    m_howToFix: See Console for detail.
+  m_errorEventCount: 11
+  m_infoEventCount: 0
+  m_version: 1
+  m_processStartIndex: 0

@@ -1,0 +1,10 @@
+<linker>
+   <assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Texture2D" preserve="all"/>
+		<type fullname="UnityEngine.Sprite" preserve="all"/>
+   </assembly>
+   <assembly fullname="UnityEngine.Physics2DModule">
+		<type fullname="UnityEngine.PhysicsMaterial2D" preserve="all"/>
+   </assembly>
+</linker>
+

@@ -1,0 +1,87 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using UniRx;
+
+public class Arkanoid : MonoBehaviour
+{
+	[SerializeField]
+	private Ball ball = null;
+	[SerializeField]
+	private Racket racket = null;
+	[SerializeField]
+	private GameObject stage = null;
+	[SerializeField]
+	private Text scoreText = null;
+	[SerializeField]
+	private Text highScoreText = null;
+	[SerializeField]
+	private Text gameoverText = null;
+	[SerializeField]
+	private Text gameclearText = null;
+
+	private static int highScore = 0;
+
+	private void Start() {
+		highScoreText.text = highScore.ToString("00000000");
+		var score = 0;
+		var blockNum = stage.GetComponentsInChildren<Block>().Length;
+
+		//UniRxのみを使い、かつStartメソッドのみにTODOの判定を記述せよ
+		//https://qiita.com/Marimoiro/items/b0c66c6c22cf58bde049
+		
+		//Update毎に呼ばれるイベントを作成する場合は、Observable.EveryUpdate を使う
+		//例)
+		//Observable.EveryUpdate()
+		//	.Where(_ => メソッドチェインの下に続く条件 trueなら下に続く)
+		//  .Subscribe(_ => {
+		//     条件を満たした場合の処理を書く
+		//  });
+		//
+		//Subscribeに達するまでの条件をメソッドチェインで書いていくことになる
+
+		//TODO:ballの座標が-120を超えたらゲームオーバーにする
+		Observable.EveryUpdate()
+			.Where(_ => ball.transform.position.y < -120)
+			.Take(1)
+			.Subscribe(_ => {
+				ball.gameObject.SetActive(false);
+				gameoverText.gameObject.SetActive(true);
+			});
+		
+		//TODO:ブロックの数が減る毎にスコア+100する & ボールのスピードを消した数分増やす
+		Observable.EveryUpdate()
+			.Select(_ => stage.GetComponentsInChildren<Block>().Length)
+			.Where(num => num < blockNum)
+			.Subscribe(num => {
+				ball.speed += blockNum - num;
+				score += (blockNum - num) * 100;
+				scoreText.text = score.ToString("00000000");
+				blockNum = num;
+			});
+
+		//TODO:ブロックの数が0になったらゲームクリアにする
+		Observable.EveryUpdate()
+			.Select(_ => stage.GetComponentsInChildren<Block>().Length)
+			.Where(num => num <= 0)
+			.Take(1)
+			.Subscribe(_ => {
+				ball.gameObject.SetActive(false);
+				gameclearText.gameObject.SetActive(true);
+			});
+
+		//TODO:ゲームオーバー、ゲームクリアの5秒後にゲームを再開する
+		//     SceneManager.LoadScene("シーン名") でシーンのリロードができる
+		Observable.EveryUpdate()
+			.Where(_ => gameoverText.gameObject.activeSelf || gameclearText.gameObject.activeSelf)
+			.Take(1)
+			.Select(_ => Observable.Timer(TimeSpan.FromSeconds(5)))
+			.Subscribe(_ => {
+				highScore = score;
+				SceneManager.LoadScene("GameScene");
+			});
+	}
+}
